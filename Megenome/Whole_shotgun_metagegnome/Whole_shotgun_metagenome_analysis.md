@@ -729,17 +729,3 @@ humann_barplot \\
 - plotting 에 대한 기타 상세옵션은 humann_barplot --help 에서 확인가능
 
 </br></br>
-
-## 수고하셨습니다! </br>
-
-### 본 스크립트는 잘 보관하셔서 차후 Metagenomics 분석하실 때 요긴하게 사용하시길 바랍니다~:poop::bug::sweat_smile::grin::heart:
-
----
-
-강의자료 제작: <span style="color:blue">성균관대학교 삼성융합의과학원/강북삼성병원 **김한나**</span> (문의: [147942@hanmail.net](mailto:147942@hanmail.net))
-
----
-
-[kogo_winter23/KOGO_2023_winter_Lab_for_Win.md at main · o147942/kogo_winter23](https://github.com/o147942/kogo_winter23/blob/main/KOGO_2023_winter_Lab_for_Win.md)
-
-[KOGO_2023_winter_Lab_for_Win_Linux.html](%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%20eae372a677d54e898b54f35ec0dcc324/KOGO_2023_winter_Lab_for_Win_Linux.html)
