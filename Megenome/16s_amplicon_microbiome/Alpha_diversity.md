@@ -9,6 +9,7 @@
 <br/>
 - R을 이용한 Alpha diversity Box plot
 <br/>
+
 ```
 # 여러 종류의 plot을 한번에 띄우고 싶다면 사용 
 # 1행 2열의 빈 행렬을 만듭니다. 그리고 plot을 실행하면 순서데로 행렬이 채워지는 모습을 확인 가능
@@ -76,7 +77,9 @@ boxplot(B2, col="cyan", boxwex=0.3, add=TRUE, at=1+0.15, outcex=0.1)
 ```
 <br/>
 #### ace에 대한 w.test 값 구하기
+
 <br/>
+
 ```
 index=read.table("NC_vs_AD.txt",header=TRUE,row.names=1)
 G1<- index[1:20,2]
@@ -88,5 +91,5 @@ wilcox.test(G1,G2)
 ### => 이때, 동일한 정렬순서의 값이 있으면 통계량과 p-value값이 정확하지 않을 수 있다는 뜻
 ### => 샘플수가 작으면 문제가 될 수 있으나, 샘플 사이즈가 크면 무시해도 대세에 지장 없음.
 
-```
+
 <br/>
