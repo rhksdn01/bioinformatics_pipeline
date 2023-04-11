@@ -1,13 +1,13 @@
 
 ## Contents
 
-- [Raw data processing: QC/Fitering](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [1. Raw data (fastq) quality 확인](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [2. Quality Filtering](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [3. Removal of unwanted reads (Human 시퀀스 제거)](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324))
-- [Taxonomic & Functional Profiling](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [1. Taxonomic Profiling](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [2. Functiona Profiling](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
+- [Raw data processing: QC/Fitering]
+    - [1. Raw data (fastq) quality 확인]
+    - [2. Quality Filtering]
+    - [3. Removal of unwanted reads (Human 시퀀스 제거)]
+- [Taxonomic & Functional Profiling]
+    - [1. Taxonomic Profiling]
+    - [2. Functiona Profiling]
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 - 작업폴더로 이동
 
-```
+```bash
 cd /mnt/c/Users/윈도우사용자계정/Desktop/KOGO_winter    # 항상 이 위치를 기억하고, 길을 잃었을땐, 이 위치로 돌아오세요.
 
 # 또는 외장하드나 파티션 드라이브에 KOGO_winter 폴더를 저장한 경우에는,
@@ -30,11 +30,11 @@ cd /mnt/e/KOGO_winter    # 이 위치로 늘 돌아오세요 (E: 드라이브일
 
 ```
 
-```
+```bash
 cd ./Inputs
 ```
 
-```
+```bash
 ls
 ```
 
