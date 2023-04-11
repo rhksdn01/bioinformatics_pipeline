@@ -1,13 +1,13 @@
 
 ## Contents
 
-- [Raw data processing: QC/Fitering](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [1. Raw data (fastq) quality 확인](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [2. Quality Filtering](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [3. Removal of unwanted reads (Human 시퀀스 제거)](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324))
-- [Taxonomic & Functional Profiling](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [1. Taxonomic Profiling](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
-    - [2. Functiona Profiling](https://www.notion.so/eae372a677d54e898b54f35ec0dcc324)
+- [Raw data processing: QC/Fitering]
+    - [1. Raw data (fastq) quality 확인]
+    - [2. Quality Filtering]
+    - [3. Removal of unwanted reads (Human 시퀀스 제거)]
+- [Taxonomic & Functional Profiling]
+    - [1. Taxonomic Profiling]
+    - [2. Functiona Profiling]
 
 <br/>
 
