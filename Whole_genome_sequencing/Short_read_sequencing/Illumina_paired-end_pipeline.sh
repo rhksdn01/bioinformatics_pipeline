@@ -5,7 +5,7 @@ IDS="barcode01"
 # 1. genome mapping
 for id in $IDS; do
     echo -e "\n[Start genome mapping $id ... ]"
-    time bwa mem -t 32 /home/kwkim/MinION/220608_SARS1/fastq_pass/SARS_coronavirus_HKU-39849.fasta > ./mapping_$id.sam
+    time bwa mem -t 32 /home/kwkim/genome_assemble/SFTSV/ref-seq/$id.fasta 004_SFTSV_isolation04_final_R1.fastq 004_SFTSV_isolation04_final_R2.fastq > ./mapping_$id.sam
 done
 wait
 echo -e "[Completed]" `date` "\n"
